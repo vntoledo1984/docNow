@@ -3,6 +3,6 @@ package docNow;
 public class Teste {
 	
 	public static void main(String[] args) {
-		System.out.println("AEEEEEEEEEEEEEEEEEEEEEEEEEEE");
+		System.out.println("AEEEEEEEEEEEEEEEEEEEEEEE");
 	}
 }
